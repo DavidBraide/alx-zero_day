@@ -1,0 +1,9 @@
+git clone
+git config --global user.email
+git config --global user.name
+echo
+cat
+git add .
+git commit -m
+git push
+git pull
